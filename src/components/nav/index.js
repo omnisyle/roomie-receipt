@@ -25,6 +25,9 @@ const Nav = () => (
         >
           Roomie Receipt
         </Typography>
+        <Link to="/add_receipt">
+          Add Receipt
+        </Link>
         <Button color="inherit">
           Login
         </Button>
